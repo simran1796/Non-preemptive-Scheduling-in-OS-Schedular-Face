@@ -356,7 +356,5 @@ function draw() {
                     + '</tr></table>'
                    );
   }
-	
-  animate();
-	
+  animate();	
 }
